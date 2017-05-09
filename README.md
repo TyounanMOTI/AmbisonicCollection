@@ -10,6 +10,7 @@ Oculus Ambisonics Starter Pack listening application for various VR/MR devices.
 3. Raise index finger to show other spheres
 4. Enjoy!
 
+日本語：
 1. 360画像のついた３つの球が表示されるまで待つ（Ambisonicsデータをオンメモリにデコードしてます）
 2. 球をエアタップして視聴開始！
 3. 人差し指を上げると他の球を選択できるようになります。
